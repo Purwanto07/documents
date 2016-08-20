@@ -1,0 +1,193 @@
+2016-08-13 10:01:23 ERROR  : Error connecting to the server: ERROR:  No such user
+
+2016-08-13 11:22:50 ERROR  : ERROR:  date/time field value out of range: "20:18:230"
+2016-08-13 11:57:00 ERROR  : ERROR:  date/time field value out of range: "11:30:4344"
+2016-08-15 09:04:35 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2016-08-15 09:04:47 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2016-08-15 09:04:49 ERROR  : no connection to the server
+
+2016-08-15 09:04:53 ERROR  : no connection to the server
+2016-08-15 09:05:26 ERROR  : no connection to the server
+
+2016-08-15 09:05:28 ERROR  : no connection to the server
+2016-08-15 09:05:32 ERROR  : no connection to the server
+
+2016-08-15 09:05:34 ERROR  : no connection to the server
+2016-08-15 09:08:26 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2016-08-15 09:08:34 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2016-08-15 09:08:39 ERROR  : no connection to the server
+
+2016-08-15 09:08:40 ERROR  : no connection to the server
+2016-08-15 09:09:00 ERROR  : no connection to the server
+
+2016-08-15 09:09:09 ERROR  : no connection to the server
+2016-08-15 09:09:30 ERROR  : no connection to the server
+
+2016-08-15 09:09:33 ERROR  : no connection to the server
+2016-08-15 09:09:34 ERROR  : no connection to the server
+
+2016-08-15 09:09:35 ERROR  : no connection to the server
+2016-08-15 09:09:53 ERROR  : no connection to the server
+
+2016-08-15 09:09:54 ERROR  : no connection to the server
+2016-08-15 09:09:55 ERROR  : no connection to the server
+
+2016-08-15 09:09:56 ERROR  : no connection to the server
+2016-08-15 09:09:56 ERROR  : no connection to the server
+
+2016-08-15 09:09:57 ERROR  : no connection to the server
+2016-08-15 09:10:01 ERROR  : no connection to the server
+
+2016-08-15 09:10:03 ERROR  : no connection to the server
+2016-08-15 09:10:04 ERROR  : no connection to the server
+
+2016-08-15 09:10:04 ERROR  : no connection to the server
+2016-08-15 09:10:04 ERROR  : no connection to the server
+
+2016-08-15 09:10:05 ERROR  : no connection to the server
+2016-08-15 09:10:05 ERROR  : no connection to the server
+
+2016-08-15 09:10:05 ERROR  : no connection to the server
+2016-08-15 09:10:05 ERROR  : no connection to the server
+
+2016-08-15 09:10:06 ERROR  : no connection to the server
+2016-08-15 09:10:06 ERROR  : no connection to the server
+
+2016-08-15 09:10:06 ERROR  : no connection to the server
+2016-08-15 09:10:06 ERROR  : no connection to the server
+
+2016-08-15 09:10:07 ERROR  : no connection to the server
+2016-08-15 09:10:31 ERROR  : no connection to the server
+
+2016-08-15 09:10:33 ERROR  : no connection to the server
+2016-08-15 09:10:41 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2016-08-15 09:10:42 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2016-08-15 09:10:43 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2016-08-15 10:50:38 ERROR  : ERROR:  date/time field value out of range: "11:31:71"
+2016-08-15 10:50:41 ERROR  : ERROR:  date/time field value out of range: "11:31:71"
+2016-08-15 10:52:25 ERROR  : ERROR:  date/time field value out of range: "11:06:120"
+2016-08-15 13:37:37 ERROR  : ERROR:  date/time field value out of range: "21:11:444"
+2016-08-15 14:04:56 ERROR  : ERROR:  date/time field value out of range: "14:18:312"
+2016-08-15 14:07:57 ERROR  : ERROR:  date/time field value out of range: "16:203:9"
+2016-08-15 14:44:37 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ...like '__300416%' and jam = '15:17:36 --tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:44:51 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ...like '__300416%' and jam = '15:17:36 --tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:44:52 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ...like '__300416%' and jam = '15:17:36 --tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:17 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:18 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:19 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:19 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:20 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:20 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:20 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:20 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:20 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:21 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:21 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:21 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:21 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:21 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:21 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:22 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:22 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:22 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:22 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:22 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:23 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:23 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:23 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:23 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-15 14:45:23 ERROR  : ERROR:  syntax error at or near "2016"
+LINE 4: ... like '__300416%' and jam = '15:17:36--tanggal = '2016-04-30...
+                                                             ^
+2016-08-16 14:25:47 ERROR  : ERROR:  date/time field value out of range: "09:57:446"
+2016-08-16 15:09:03 ERROR  : ERROR:  date/time field value out of range: "12:09:221"
+2016-08-16 15:42:37 ERROR  : ERROR:  syntax error at or near "select"
+LINE 6: select * from tbletoll_record_05_2016 where flag = 16 and sr...
+        ^
+2016-08-16 15:42:38 ERROR  : ERROR:  syntax error at or near "select"
+LINE 6: select * from tbletoll_record_05_2016 where flag = 16 and sr...
+        ^
+2016-08-16 15:42:39 ERROR  : ERROR:  syntax error at or near "select"
+LINE 6: select * from tbletoll_record_05_2016 where flag = 16 and sr...
+        ^
+2016-08-16 15:42:50 ERROR  : ERROR:  syntax error at or near "select"
+LINE 6: select * from tbletoll_record_05_2016 where flag = 16 and sr...
+        ^
+2016-08-18 11:13:33 ERROR  : ERROR:  date/time field value out of range: "18:58:089"
+2016-08-18 13:43:17 ERROR  : ERROR:  date/time field value out of range: "18:50:323"
+2016-08-18 13:43:19 ERROR  : ERROR:  date/time field value out of range: "18:50:323"
+2016-08-18 14:34:38 ERROR  : ERROR:  date/time field value out of range: "17:59:115"
+2016-08-18 15:36:02 ERROR  : ERROR:  date/time field value out of range: "20:7:551"
+2016-08-18 15:36:03 ERROR  : ERROR:  date/time field value out of range: "20:7:551"
